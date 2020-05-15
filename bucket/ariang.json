@@ -2,14 +2,13 @@
     "homepage": "https://ariang.mayswind.net/",
     "description": "AriaNg, a modern web frontend making aria2 easier to use.",
     "license": "MIT",
-    "version": "1.1.6",
+    "version": "1.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mayswind/AriaNg/releases/download/1.1.6/AriaNg-1.1.6-AllInOne.zip",
-            "extract_to": "AriaNg-1.1.6-AllInOne"
+            "url": "https://github.com/mayswind/AriaNg/releases/download/1.1.5/AriaNg-1.1.5-AllInOne.zip",
+            "extract_to": "AriaNg-1.1.5-AllInOne"
         }
     },
-    "bin": "index.html",
     "checkver": {
         "github": "https://github.com/mayswind/AriaNg",
         "re": "/(?:[\\d.]+)/AriaNg-(?<version>[\\d.]+)-AllInOne.zip",
