@@ -6,6 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mayswind/AriaNg/releases/download/1.1.5/AriaNg-1.1.5-AllInOne.zip",
+            "hash": "dd82ca5a15e23e0ccdc1c1ee90e1d905fd8c65d493cf4baf7c9a3b6083c96f26"
             "extract_to": "AriaNg-1.1.5-AllInOne"
         }
     },
